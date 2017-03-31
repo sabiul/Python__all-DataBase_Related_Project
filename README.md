@@ -42,6 +42,5 @@ We are trying to do database releted work through python language and we are usi
 
 
 ### Contact
-> Facebook https://www.facebook.com/mr.saiful.azad
 
-> Gmail mr.saiful.azad@gmail.com
+> Gmail 234sabiul@gmail.com
